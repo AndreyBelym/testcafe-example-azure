@@ -1,3 +1,4 @@
 steps:
 - script: |
+      npm install
       node testRunner.js
