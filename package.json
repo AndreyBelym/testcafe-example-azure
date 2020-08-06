@@ -1,0 +1,23 @@
+{
+  "name": "testcafe-example-azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testRunner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyBelym/testcafe-example-azure.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreyBelym/testcafe-example-azure/issues"
+  },
+  "homepage": "https://github.com/AndreyBelym/testcafe-example-azure#readme",
+  "devDependencies": {
+    "testcafe": "^1.8.8",
+    "testcafe-reporter-junit": "^3.0.2"
+  }
+}

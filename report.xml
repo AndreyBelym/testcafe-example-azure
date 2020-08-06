@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 84.0.4147.105 / Windows 10" tests="8" failures="0" skipped="0" errors="0" time="17.936" timestamp="Thu, 06 Aug 2020 07:53:15 GMT" >
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Text typing basics" time="2.423">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Click an array of labels and then check their states" time="1.551">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Dealing with text using keyboard" time="1.769">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Moving the slider" time="1.909">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Dealing with text using selection" time="1.363">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Handle native confirmation dialog" time="2.601">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Pick option from select" time="1.331">
+  </testcase>
+  <testcase classname="A set of examples that illustrate how to use TestCafe API" name="Filling a form" time="4.825">
+  </testcase>
+</testsuite>
